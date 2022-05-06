@@ -30,7 +30,7 @@ table, th, td {
 th, td {
     padding: 15px;
     text-align: center;
-    background-color: lightgray;
+    background-color: rgb(243, 237, 237);
 }
 th {
     background-color: lightgreen;
